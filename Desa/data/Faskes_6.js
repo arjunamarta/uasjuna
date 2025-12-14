@@ -1,0 +1,1 @@
+var json_Faskes_6 = {"type":"FeatureCollection","name":"Faskes_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Apotek Virendra Farma","Desa":"Arcawinangun"},"geometry":{"type":"Point","coordinates":[109.25406167552714,-7.4167486840244]}}]}

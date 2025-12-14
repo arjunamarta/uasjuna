@@ -1,0 +1,1 @@
+var json_KetuaRT04RW08_9 = {"type":"FeatureCollection","name":"KetuaRT04RW08_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Pak Sudir","Desa":"Arcawinangun"},"geometry":{"type":"Point","coordinates":[109.259653192848219,-7.411547415071587]}}]}

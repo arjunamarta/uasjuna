@@ -1,0 +1,1 @@
+var json_Pasar_5 = {"type":"FeatureCollection","name":"Pasar_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Pasar Kejawar","Desa":"Arcawinangun"},"geometry":{"type":"Point","coordinates":[109.263329913010736,-7.417510152121236]}}]}

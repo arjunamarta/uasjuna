@@ -1,0 +1,1 @@
+var json_Vihara_4 = {"type":"FeatureCollection","name":"Vihara_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Vihara Buddha Dipa","Desa":"Arcawinangun"},"geometry":{"type":"Point","coordinates":[109.257751397157719,-7.421363198581516]}}]}

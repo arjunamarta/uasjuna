@@ -1,0 +1,1 @@
+var json_RumahSaya_11 = {"type":"FeatureCollection","name":"RumahSaya_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Pemilik":"Arjuna Marta","alamat":"Jalan Margo Mulyo No.33","rt/rw":"04/08"},"geometry":{"type":"Point","coordinates":[109.260196238993615,-7.411822890410879]}}]}

@@ -1,0 +1,1 @@
+var json_Pemakaman_12 = {"type":"FeatureCollection","name":"Pemakaman_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Makam Astana Duwur","Desa":"Arcawinangun"},"geometry":{"type":"Point","coordinates":[109.264101920054429,-7.412967158095607]}}]}
